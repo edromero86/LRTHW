@@ -1,0 +1,30 @@
+animals = ['bear', 'tiger', 'penguin', 'zebra']
+bear = animals[0]
+
+
+
+1st, 2nd, 3rd, 4th 
+This means 'Ordinal' numbers, because they indicate an ordering of things. 
+
+0, 1, 2, 3, 4
+This kind of number is a 'Cardinal' number and means you can pick at random, so there needs to be a 0 element. 
+
+
+Remember: 
+ordinal == ordered
+cardinal == cards at random, 0
+
+
+
+animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+1. The animal at 1 == 'ruby'
+2. The third (3rd) animal == animals[2]
+3. The first (1st) animal == animals[0]
+4. The animal at 3 == 'kangaroo'
+5. The fifth (5th) animal = animals[4]
+6. The animal at 2 == 'peacock'
+7. The sixth (6th) animal == animals[5]
+8. The animal at 4 == 'whale'
+
+
